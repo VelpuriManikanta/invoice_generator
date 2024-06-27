@@ -88,7 +88,7 @@ if __name__ == "__main__":
         'pan': 'AACFV3325K',
         'gst': '29AACFV3325K1ZY'
     }
-    place_of_supply = 'KARNATAKA'
+    place_of_supply = 'Bihar'
     billing_details = {
         'name': 'Madhu B',
         'address': 'Eurofins IT Solutions India Pvt Ltd., 1st Floor, Maruti Platinum, Lakshminarayana Pura, AECS Layou',
